@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Startup Success Prediction
 
 This notebook aims to develop a ranking model that can predict the success of startups, using data available in the Startup Success Predict 100 dataset, available on Kaggle at https://www.kaggle.com/datasets/manishkc06/startup-success- prediction.
